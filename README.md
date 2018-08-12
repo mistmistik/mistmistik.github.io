@@ -25,4 +25,6 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
 
  lesson 12 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_12  Домашняя работа Работа с репозиторием на GitHub 
  
+ lesson 13 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_13/Project/src Домашняя работа 13урока адаптивная верстка 
+ 
   
