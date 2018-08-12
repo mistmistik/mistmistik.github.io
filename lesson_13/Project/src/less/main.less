@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+	@backg-color: #01b3b3;
+
+body{
+ 	background-color: #ebf4f4;
+}
+form{
+		width: 25%;
+		height: 380px;
+		margin: 100px auto;
+		background-color: #fff;
+		padding-top: 55px;
+}
+p{
+		width: 150px ;
+		font-size: 12px;
+		background-color: @backg-color;
+		color:#fff;
+		padding: 5px;
+		margin-top: -58px;
+		margin-left: 30px;
+}
+.btn{
+		width: 86%;
+		height: 48px;
+		margin: 34px auto;
+		background-color: @backg-color;
+		color:fff;
+		font-size: 16px;
+		border:none; 
+		&:hover{
+				background-color: @backg-color - #111111;
+	}
+}
+
+label{
+	margin: 10px 0 14px 25px;
+	font-size: 12px;
+
+}
+.colclass{
+		height: 30px;
+	 border-radius: 2px solid  @backg-color;
+		width: 86%;
+		height: 90%;
+		margin: 0 auto;
+		background-color: #ebf4f4;
+}
+input::input-placeholderr {
+	font-size: 12px;
+}
+span{
+	color: 	@backg-color;
+}
+
+
+
+
+
+@media screen and (max-width:1140px ) {
+	form{
+		width: 25%;
+		height: 380px;
+		margin: 100px auto;
+	}
+}
+ @media screen and (min-width: 960px) and (max-width:1140px ) {
+	form{
+		width: 33.3%;
+		height: 380px;
+		margin: 100px auto;
+	}
+}
+@media screen and (min-width: 720px) and (max-width:960px ){
+		form{
+		width: 41%;
+		height: 380px;
+		margin: 100px auto;
+	}
+}
+@media screen and (min-width: 540px ) and (max-width: 720px) {
+	form{
+		width: 50%;
+		height: 380px;
+		margin: 100px auto;
+	}
+}
+@media screen and (max-width: 540px ) {
+	form{
+		width: auto;
+		height: 380px;
+		margin: 100px auto;
+	}
+}
