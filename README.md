@@ -29,4 +29,7 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
  
  lesson 14 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_14/Project/src Модуль 5 Практика Часть 1
  
+ lesson_15 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_%2015/Project/src Модуль 5 Урок 14
+Подключение шрифтов.
+ 
   
