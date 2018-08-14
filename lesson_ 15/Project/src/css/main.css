@@ -1,0 +1,46 @@
+html {
+  font-size: 10px;
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url(../fonts/Nova_condensedBold.ttf);
+  src: url(../fonts/Nova_light.ttf);
+  src: url(../fonts/Nova_Semibold.ttf);
+  src: url(../fonts/Nova_regular.ttf);
+}
+section {
+  padding: 10px 0;
+}
+main {
+  padding: 3rem 0;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+.button {
+  background: #f8af01;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 8px;
+  font-family: 'Nova_Semibold', sans-serif;
+}
+.header {
+  height: 7rem;
+}
+.phone-link {
+  display: inline-block;
+  font-family: 'Nova_Semibold', sans-serif;
+  font-weight: 600;
+  color: #1a1820;
+  font-size: 2rem;
+  height: 7rem;
+  line-height: 7rem;
+}

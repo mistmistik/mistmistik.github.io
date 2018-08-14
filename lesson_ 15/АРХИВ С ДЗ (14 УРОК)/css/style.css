@@ -1,0 +1,26 @@
+@font-face{
+  font-family: 'Proxima Nova';
+  src:url(../fonts/Nova_condensedBold.ttf);
+  src:url(../fonts/Nova_light.ttf);
+  src:url(../fonts/Nova_Semibold);
+  src:url(../fonts/Nova_regular.ttf);
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+	
+}
+
