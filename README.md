@@ -32,5 +32,5 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
  lesson_15 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_%2015/Project/src Модуль 5 Урок 14
 Подключение шрифтов.
  
- lesson 16 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_16  Модуль 5. Практика. Часть 2.
+ lesson 16 mistmistik.github.io/lesson_16/Project/src/  Модуль 5. Практика. Часть 2.
   
