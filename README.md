@@ -33,4 +33,6 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
 Подключение шрифтов.
  
  lesson 16 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_16/Project/src  Модуль 5. Практика. Часть 2.
+ 
+ lesson 17 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_17 Урок №15. Псевдоклассы и псевдоэлементы
   
