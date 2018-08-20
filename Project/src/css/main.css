@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 10px;
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url(../fonts/NovaSemibold.ttf);
+  src: url(../fonts/NovaRegular.ttf);
+}
+body {
+  font-family: 'NovaRegular', sans-serif;
+}
+section {
+  padding: 10px 0;
+}
+.main {
+  padding: 3rem 0;
+  background: #ffffff url(../img/bg-header.jpg) center center no-repeat;
+}
+.main-content {
+  margin-top: 8rem;
+}
+.main-content h1 {
+  display: inline-block;
+  font-size: 3rem;
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+.main-content h1 strong {
+  font-family: 'NovaSemiBold', sans-serif;
+}
+.main-subtitle {
+  font-size: 2rem;
+  margin-top: 3rem;
+}
+.main .priceJob {
+  margin-top: 3rem;
+  display: inline-block;
+  padding: 2rem 3rem;
+  font-size: 1.8rem;
+  font-family: 'NovaRegular', sans-serif;
+  background: #46b814;
+  color: #ffffff;
+}
+.main span {
+  display: inline-block;
+  font-size: 2rem;
+  font-family: 'NovaSemiBold', sans-serif;
+}
+.main-trigger {
+  margin-top: 2rem;
+  display: block;
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  font-family: 'NovaSemiBold', sans-serif;
+}
+.main-form {
+  display: block;
+  background-color: #ffffff;
+  padding: 4rem 4rem;
+  text-align: center;
+}
+.main-form-header {
+  font-size: 1.8rem;
+}
+.main-form-header strong {
+  font-size: 1.9rem;
+}
+.main-form-input {
+  display: block;
+  width: 100%;
+  padding: 1.5rem;
+  border: 1px solid #dddddd;
+  margin-top: 2rem;
+}
+.main .lb-1 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #ffffff;
+  padding: 0.5rem;
+}
+.main .lb-2 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(29%);
+  background-color: #ffffff;
+  padding: 0.5rem;
+}
+.main .btn {
+  width: 100%;
+  height: 5rem;
+  background-color: #f8af01;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 3rem 0 1rem 0;
+  border-radius: 5px;
+  border: none;
+}
+.main small {
+  margin-top: 2.5rem;
+  font-size: 1.5rem;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+.button {
+  background: #f8af01;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-family: 'NovaSemiBold', sans-serif;
+}
+.header {
+  height: 7rem;
+}
+.phone-link {
+  display: inline-block;
+  font-family: 'NovaSemiBold', sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  height: 7rem;
+  line-height: 7rem;
+  color: #1a1820;
+}
+@media screen and (max-width: 769px) {
+  h1 {
+    margin-top: 65px;
+  }
+  .main-form {
+    margin: 20px;
+  }
+  .main {
+    background-position: top right;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 960px) {
+  .main {
+    background-position: top right;
+    text-align: center;
+  }
+  .main-form {
+    margin: 20px;
+  }
+}

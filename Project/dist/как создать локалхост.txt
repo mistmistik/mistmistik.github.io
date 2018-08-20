@@ -1,0 +1,4 @@
+﻿browser-sync start --server --files "*.html"
+
+Путь файла полностью:
+F:\Уроки\Уроки Артема Исламова\project\src> browser-sync start --server --files "*.html"
