@@ -1,65 +1,29 @@
+body{
+	margin: 0px auto;
+	background-color: #cccccc;
+}
 
-
-
-
-
-
-
-
-
-
-.header{
+.razdel{
+	height: 50px;
 	text-align: center;
+	background-color: #00FFA9;
 }
-.header>span{
-	display: block;
-	font-weight: 400;
-	font-size: 24px;
-}
-.header strong{
-	font-size: 24px;
-	font-weight: 600;
+h2{
+ text-transform: uppercase;
+	
+	color:white;
+
 }
 
-.form{
-	border:5px solid #3c3cdd;
-	padding: 15px 30px;	
+/*.d-block{
+
+margin: 0 auto;
+}*/
+.carousel-control-prev, .carousel-control-next{
+	background-color: #777777;
 }
 
-.form-header{
-	font-size: 20px;
-	font-weight: 800;
-	margin: 30px 0 33px 0;
+.inner-fotorama{
+	margin:0 auto;
+	width: 50%;
 }
-
-
-input{
-	border:2px solid #3c3cdd;
-	margin-bottom: 10px;
-	border-radius: 5px;
-	padding-left: 15px;
-}
-.btn{
-	background: #3c3cdd; 
-	margin-bottom: 30px;
-	border:none;
-}
-.feature-box>p{
-	margin-top: 15px;
-}
-.btn-box{
-	margin: 50px 0 25px 0;
-	background: #3c3cdd; 
-	border:none;
-}
-.img-box{
-	margin-bottom: 60px;
-}
-.img-box>img{
-	width: 215px;
-	height: 215px;
-	padding: 10px;
-}
-
-
-
