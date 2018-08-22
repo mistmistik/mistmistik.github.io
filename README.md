@@ -37,4 +37,6 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
  lesson 17 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_17 Урок №15. Псевдоклассы и псевдоэлементы
  
  lesson 18 https://github.com/mistmistik/mistmistik.github.io/tree/master/Project/src Эффекты при наведении и адаптив первого экрана
+ 
+ lesson 19 https://github.com/mistmistik/mistmistik.github.io/tree/master/Project/src Домашка Слайлеры
   
