@@ -1,0 +1,243 @@
+@btn-color:#f8af01;
+@icon-color:#46b814;
+@text:#1a1820;
+@danger:#ff0000;
+@bg-light:#f5f5f5;
+@light:#fff;
+@border-input:#dddddd;
+*{
+	margin: 0;
+padding: 0;
+}
+
+
+html{
+	font-size: 10px;
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url(../fonts/NovaSemibold.ttf);
+  src: url(../fonts/NovaRegular.ttf);
+}
+.reg(){
+	font-family:'NovaRegular',sans-serif ;
+}
+.bold(){
+	font-family:'NovaSemiBold',sans-serif ;
+}
+body{
+	.reg();
+}
+
+	// Tipografy
+	section{
+	padding: 10px 0;
+}
+.section-header{
+
+	text-align: center;
+	margin: 5rem 0px 5rem;
+	.bold();
+	font-size: 3.6rem;
+}
+
+		.main{
+			padding: 3rem 0;
+			background: #fff url(../img/bg-header.jpg) center center no-repeat;
+			&-content{
+				margin-top: 8rem;
+				h1{
+  display: inline-block;
+  font-size: 3rem;
+  text-transform: uppercase;
+  line-height: 1.4;
+  strong{
+  .bold();
+}
+}
+			}
+			&-subtitle{
+				font-size: 2rem;
+				margin-top: 3rem;
+}
+.priceJob{
+	margin-top: 3rem;
+	display: inline-block;
+		 padding: 2rem 3rem;
+	font-size: 1.8rem;
+	.reg(); 
+	 background: @icon-color;
+	color: @light;
+}
+span{
+	display: inline-block;
+	font-size: 2rem;
+	.bold();
+}
+	&-trigger{
+		margin-top: 2rem;
+			display: block;
+			font-size: 2.2rem;
+			text-transform: uppercase;
+			.bold();
+		}
+		&-form{
+			display: block;
+			background-color: @light;
+			padding: 4rem 4rem;
+			text-align: center;
+			&-header{
+			font-size: 1.8rem;
+			strong{
+			font-size: 1.9rem;
+		}
+		}
+		&-input{
+			display: block;
+			width: 100%;
+			padding: 1.5rem;
+			border: 1px solid @border-input;
+			margin-top: 2rem;
+		}
+		
+		}
+			.lb-1{
+			position: absolute;
+			left:50%;
+			transform: translateX(-50%) translateY(-50%);
+			background-color: @light;
+			padding: 0.5rem;
+		}
+		.lb-2{
+			position: absolute;
+			left:50%;
+			transform: translateX(-50%) translateY(29%);
+			background-color: @light;
+			padding: 0.5rem;
+		}
+		.btn{
+			width: 100%;
+			height: 5rem;
+			background-color: @btn-color;
+			font-size: 2rem;
+			text-transform: uppercase;
+			color:@light;
+			margin: 3rem 0 1rem 0;
+			border-radius:5px;
+			border:none;
+		}
+		small{
+			margin-top: 2.5rem;
+			font-size: 1.5rem;
+		}
+		}
+		.wrap{
+		display: table;
+		width: 100%;
+		height: 7rem;
+		&-block{
+			display: table-cell;
+		vertical-align: middle;
+		}
+		}
+	.button{
+		background:@btn-color;
+		color:@light;
+		padding: 1rem 3rem;
+		text-transform: uppercase;
+		border:none;
+		border-radius: 8px;
+		font-size: 1.2rem;
+  .bold();
+	}
+	.header{
+		height: 7rem;
+	}
+	.phone-link{
+		display: inline-block;
+	 .bold();
+		font-weight: 600;
+		font-size: 2rem;
+		height: 7rem;
+		line-height: 7rem;
+		color:@text;
+	}
+
+// Оформляем секции с приемуществами
+.features{
+	&-block,h3,p{
+		text-align: center;
+	}
+	&-img{
+		height: 6rem;
+		 img{
+		display: block;
+		margin: 0 auto;
+	}
+
+	}
+	h3{
+		margin-top: 3rem;
+		.bold();
+		font-size: 2rem;
+	}
+	p{
+		font-size: 1.4rem;
+		padding: 0.5rem;
+	}
+}
+.slick-active{
+	outline:none;
+}
+.arrow{
+	z-index: 99;
+	position: absolute;
+	top:50%;
+	width: 2rem;
+	height: 2rem;
+	border:none;
+	transform: translateX(70%) translateY(-38%);
+}
+.next{
+	right:0;
+background: url(../img/right-arrow.svg) center no-repeat;
+background-size: 70%;
+}
+.prev{
+left:0;
+background: url(../img/left-arrow.svg) center no-repeat;
+background-size: 70%;
+}
+
+@media screen and (max-width: 769px ){
+	h1{
+		margin-top: 65px;
+	}
+	.main-form{
+		margin: 20px;
+	}
+	.main{
+		background-position: top right;
+		text-align: center;
+	}
+}
+@media screen and (max-width: 960px ) {
+.main{
+		background-position: top right;
+		text-align: center;
+	}
+	.main-form{
+		margin: 20px;
+	}
+}@media screen and (max-width: 992px ) {
+.main{
+		background-position: top right;
+		text-align: center;
+	}
+	.main-form{
+		margin: 20px;
+	}
+}
+
+
+
