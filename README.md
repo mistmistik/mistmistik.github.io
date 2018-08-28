@@ -44,5 +44,5 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
  
  lesson_21 https://mistmistik.github.io/lesson_21/Project/src/modal_window.html  Модальное окно урок
  
- lesson_22 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_22/Project/src/index.html  Модальное окно добавлено в проек проект
+ lesson_22 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_22/Project/src  Модальное окно добавлено в проек проект
   
