@@ -43,4 +43,6 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
  lesson 20 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_20/Project/src  Верстка блока с преимуществами. Слайдер.
  
  lesson_21 https://mistmistik.github.io/lesson_21/Project/src/modal_window.html  Модальное окно урок
+ 
+ lesson_22 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_22/Project/src Модальное окно добавлено в проек проект
   
