@@ -49,3 +49,5 @@ lesson 2 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_2
 lesson_24-1 https://mistmistik.github.io/lesson_24-1/Project/src/  Табы и аккордеон на сайте -это ссылка на TAB
 
 lesson_24-2 https://mistmistik.github.io/lesson_24-1/Project2/src/index2.html Табы и аккордеон на сайте -это ссылка на ACCORDION
+
+lesson_25 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_25/Project/src Верстка блока с ценами
