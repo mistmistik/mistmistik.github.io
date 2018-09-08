@@ -51,3 +51,7 @@ lesson_24-1 https://mistmistik.github.io/lesson_24-1/Project/src/  Табы и �
 lesson_24-2 https://mistmistik.github.io/lesson_24-1/Project2/src/index2.html Табы и аккордеон на сайте -это ссылка на ACCORDION
 
 lesson_25 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_25/Project/src Верстка блока с ценами
+
+lesson_27-1 https://mistmistik.github.io/lesson_27-1/Project/src/ Анимация табы
+
+lesson_27-2 https://mistmistik.github.io/lesson_27-2/Project2/src/index2.html Анимация раскрывающися список
