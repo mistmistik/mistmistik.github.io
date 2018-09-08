@@ -1,0 +1,108 @@
+body {
+  font-family: 'MyriadPro', sans-serif;
+}
+@font-face {
+  font-family: 'MyriadPro ';
+  src: url(../fonts/Myriad Pro.ttf);
+  font-size: 1.5rem;
+}
+.container .iner-container {
+  width: 800px;
+  height: 500px;
+  margin: 10% 15% ;
+}
+.container .iner-container .bg-form {
+  width: 800px;
+  height: 500px;
+  background: url(../img/bg-form.png) center no-repeat;
+}
+.container .iner-container .form {
+  width: 100%;
+  margin-left: 11%;
+  padding-top: 15px;
+}
+.container .iner-container .nav-tabs {
+  border-bottom: none;
+  display: block;
+  width: 500px;
+  height: 30px;
+}
+.container .iner-container .nav-color-one,
+.container .iner-container .nav-color-two {
+  display: inline-block;
+  height: 30px;
+  text-align: center;
+  border-radius: 5px 5px 0px 0px;
+  text-decoration: none;
+}
+.container .iner-container .nav-color-one {
+  width: auto;
+  height: 30px;
+  padding: 14px 20px;
+  background-color: #03a5da;
+  width: 100px;
+  margin-left: 20px;
+  color: #fff;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.container .iner-container .nav-color-two {
+  width: 150px;
+  padding: 14px 20px;
+  background-color: #fff;
+  color: #111;
+}
+.container .iner-container .tab-content {
+  width: 630px;
+  height: 430px;
+  border: 20px solid #03a5da;
+  border-radius: 3px;
+  padding: 2rem 4.5rem ;
+}
+.container .iner-container .tab-content .tab-pane {
+  color: white;
+  font-size: 24px;
+}
+.container .iner-container .tab-content input {
+  margin-top: 28px;
+  background: #1d1c1c;
+  color: #fff;
+}
+.container .iner-container .tab-content p {
+  color: #bc1d03;
+  padding: 2.3rem;
+  font-size: 15px;
+}
+.container .iner-container .tab-content label {
+  margin-left: 23px;
+  color: #6f6d6d;
+  font-size: 15px;
+}
+.container .iner-container .tab-content .btn-enter {
+  background: url(../img/bg-button.png) 0 0 no-repeat;
+  background-size: cover;
+  position: absolute;
+  margin-left: 347px;
+  margin-top: 20px;
+  padding: 8px 40px;
+  font-size: 20px;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+.container .iner-container .tab-content .btn-reg {
+  background: url(../img/bg-button.png) 0 0 no-repeat;
+  background-size: cover;
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 25px;
+  padding: 9px 40px 27px 40px;
+  font-size: 20px;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+@-webkit-keyframes move {
+  
+}
+@keyframes move {
+  
+}

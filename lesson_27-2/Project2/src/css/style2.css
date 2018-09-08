@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Ubuntu', arial;
+  font-size: 2rem;
+}
+@font-face {
+  font-family: 'Ubuntu-Bold', 'Ubuntu' arial;
+  src: url(../fonts/ubuntu.ttf);
+  src: url(../fonts/ubuntu-bold.ttf);
+  
+  /* Гарнитура шрифта */
+  /* Путь к файлу со шрифтом */
+  /* Путь к файлу со шрифтом */
+}
+.container {
+  background: url(../img/answer-bg.png) center repeat;
+  background-position: fixed;
+}
+.container .bottomLine {
+  width: 125px;
+  height: auto;
+  margin: 0 auto;
+  padding: 0rem 0 2.4rem;
+}
+.container .accordion {
+  margin: 100px auto;
+  width: 864px;
+  height: auto;
+}
+.container .accordion .card {
+  margin: 0 auto;
+}
+.container .accordion .headFont {
+  padding: 8rem 0 0 0;
+  text-align: center;
+  font-size: 3.6rem;
+  text-transform: uppercase;
+  color: #0bbaf0;
+  font-family: 'Ubuntu-bold', arial;
+  font-weight: bold;
+  -webkit-animation-duration: 3s ;
+          animation-duration: 3s ;
+}
+.container .accordion .headFonts {
+  padding: 2.3rem 0 1.2rem 0;
+  text-align: center;
+  font-size: 2.4rem;
+  text-transform: uppercase;
+  color: #0bbaf0;
+  font-family: 'Ubuntu', arial;
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+}
+.container .accordion .headFont_db {
+  position: absolute;
+  margin-left: 17%;
+  margin-top: -9%;
+  padding: 8rem 0 0 0;
+  font-size: 3.6rem;
+  text-transform: uppercase;
+  color: #0bbaf0;
+  font-family: 'Ubuntu-bold', arial;
+  font-weight: bold;
+  -webkit-animation-duration: 3s ;
+          animation-duration: 3s ;
+}
+.container .accordion .headFonts_db {
+  position: absolute;
+  margin-left: 17%;
+  margin-top: -5%;
+  padding: 2.3rem 0 1.2rem 0;
+  font-size: 2.4rem;
+  text-transform: uppercase;
+  color: #0bbaf0;
+  font-family: 'Ubuntu', arial;
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+}
+.container .accordion .card-body {
+  width: 861px;
+  height: auto;
+  margin: -2rem auto -1rem;
+  padding: 1.5rem  3rem  4rem ;
+  border: 3px solid #dcdcdc;
+  border-radius: 5px ;
+}
+.container .accordion .btn-lnk {
+  width: 864px;
+  height: 5,5rem;
+  background-color: #0bbaf0;
+  font-size: 2.3rem;
+  text-decoration: none;
+  font-family: 'Ubuntu', arial;
+  color: #fff;
+  outline: none;
+}
