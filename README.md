@@ -57,3 +57,5 @@ lesson_27-1 https://mistmistik.github.io/lesson_27-1/Project/src/ Анимаци
 lesson_27-2 https://mistmistik.github.io/lesson_27-2/Project2/src/index2.html Анимация раскрывающися список
 
 lesson 28  https://mistmistik.github.io/lesson_28/Project/src/index.html  Блок с отзывами
+
+lesson 29  https://github.com/mistmistik/mistmistik.github.io/blob/master/lesson_29/Project/src/index.html
