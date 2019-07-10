@@ -55,3 +55,5 @@ lesson_25 https://github.com/mistmistik/mistmistik.github.io/tree/master/lesson_
 lesson_27-1 https://mistmistik.github.io/lesson_27-1/Project/src/ Анимация табы
 
 lesson_27-2 https://mistmistik.github.io/lesson_27-2/Project2/src/index2.html Анимация раскрывающися список
+
+lesson 29 https://github.com/mistmistik/mistmistik.github.io/blob/master/lesson_29/Project/src/index.html урок №20.  Установить видеофон           от  Vide.com
